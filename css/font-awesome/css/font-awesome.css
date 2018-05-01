@@ -649,6 +649,9 @@
 .fa-rss:before {
   content: "\f09e";
 }
+.fa-medium:before {
+  content: "\f09f";
+}
 .fa-hdd-o:before {
   content: "\f0a0";
 }
